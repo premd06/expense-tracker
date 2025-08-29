@@ -1,1 +1,3 @@
-# expense-tracker
+# Expense Tracker 
+
+As a university student, tracking expenses can be frustrating, and doing it on paper quickly gets messy. To make things more organized, I built an "Expense Tracker" web app using React, JavaScript, and CSS, along with Recharts for data visualization. The app lets users add and delete transactions, automatically updates their balance, and displays expenses in a pie chart for a clearer overview of spending habits. All data is stored in the browser’s local storage, ensuring that transactions remain saved even after refreshing the page. This project was both fun and valuable, giving me the opportunity to strengthen my React skills while creating something practical and visually engaging that others can use as well.
